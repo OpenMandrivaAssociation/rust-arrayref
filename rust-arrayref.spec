@@ -5,8 +5,8 @@
 %global crate arrayref
 
 Name:           rust-%{crate}
-Version:        0.3.6
-Release:        2%{?dist}
+Version:        0.3.9
+Release:        1%{?dist}
 Summary:        Macros to take array references of slices
 
 # Upstream license specification: BSD-2-Clause
